@@ -1,0 +1,155 @@
+#app {
+    display: flex;
+      align-items: center;
+    justify-content: center;
+      flex-direction: column;
+  }
+  
+  .container {
+      width: 1200px;
+  }
+  
+  .container2 {
+      width: 100%;
+    background: #678F8D;
+  }
+  
+  .container3 {
+      margin: auto;
+      max-width: 996px;
+  }
+  
+  .container3-detail {
+      margin: auto;
+      max-width: 200px;
+  }
+  
+  .contact-detail {
+      text-align: center;
+  }
+  
+  .title {
+      font-family: 'Noto Sans', sans-serif;
+      font-weight: 400;
+      font-size: 80px;
+      line-height: 95px;
+    margin: 40px 0 24px 0;
+  }
+  
+  .sub-title-container {
+      display: flex;
+  }
+  
+  .sub-title-container2 {
+      display: flex;
+      justify-content: center;
+  }
+  
+  .sub-title-1 {
+      font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+  }
+  
+  .intro {
+      font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .intro-500 {
+      font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .intro-content {
+      font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+      width: 690px;
+  }
+  
+  .sub-title-2 {
+      display: flex;
+    align-items: center;	
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .pink {
+    color: #FF6670;
+  }
+  
+  .white {
+    color: #FFFFFF;
+  }
+  
+  .bg-black {
+    background: #000000;
+  }
+  
+  .bg-white {
+    background: #ffffff;
+  }
+  
+  .diving-line {
+    border: 0;
+    height: 2px;
+  }
+  
+  .left-quote-line-white {
+    border-left: 1px; 
+      border-left-color: white; 
+      border-left-style: solid; 
+      padding-left: 24px;
+  }
+  
+  .left-quote-line-green {
+    border-left: 1px; 
+      border-left-color: #678F8D; 
+      border-left-style: solid; 
+      padding-left: 24px;
+  }
+  
+  .mt-16 {
+      margin-top: 16px;
+  }
+  
+  .mt-24 {
+      margin-top: 24px;
+  }
+  
+  .mt-40 {
+      margin-top: 40px;
+  }
+  
+  .mt-64 {
+      margin-top: 64px;
+  }
+  
+  .ml-24 {
+      margin-left: 24px;
+  }
+  
+  .mb-8 {
+      margin-bottom: 8px;
+  }
+  
+  .mb-40 {
+      margin-bottom: 40px;
+  }
+  
+  .mb-80 {
+      margin-bottom: 80px;
+  }
+  
+  .mr-16{
+      margin-right: 16px;
+  }
